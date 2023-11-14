@@ -10,7 +10,7 @@
 
   - 🌱 Atualmente estudando Python.
 
-  - 🔭 Estou um busca da minha primeira oportunidade na área.
+  - 🔭 Estou em busca da minha primeira oportunidade na área.
 </p>
 
 <!-- Links -->
