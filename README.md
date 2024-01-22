@@ -21,6 +21,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
+- [Python - Gerador/validador de CPFs](https://github.com/MonteiroMiguel/gerador-de-cp)
 - [Python - Web Scraping de produtos da Amazon](https://github.com/MonteiroMiguel/amazon-scraper)
 - [Python - Downloader de vídeos do Youtube](https://github.com/MonteiroMiguel/youtube-downloader)
 
