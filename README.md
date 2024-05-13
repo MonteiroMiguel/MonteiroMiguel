@@ -5,6 +5,15 @@
 </div>
 
 <!-- Presentation -->
+<p>
+  Olá, me chamo Miguel! 
+  
+  - Cursando Análise e Desenvolvimento de Sistemas. 
+  - Desenvolvedor Back-end.
+  - Recentemente me encantei pela área de Dados, a qual tenho dedicado parte dos meus estudos.
+  - Atualmente estudando Python e SQL.
+  - Tenho me aventurado nos estudos de Matemática Discreta e Blockchain.
+</p> 
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-monteiro-3a3675231/)
@@ -14,9 +23,9 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Gerador/validador de CPFs](https://github.com/MonteiroMiguel/gerador-de-cpfs)
+- [Python - Scanner de Portfólio Cripto](https://github.com/MonteiroMiguel/portfolio-scanner)
 - [Python - Web Scraping de produtos da Amazon](https://github.com/MonteiroMiguel/amazon-scraper)
-- [Python - Downloader de vídeos do Youtube](https://github.com/MonteiroMiguel/youtube-downloader)
+- [Python - Gerador/validador de CPFs](https://github.com/MonteiroMiguel/gerador-de-cpfs)
 
 <!-- GIF -->
 <p align="left">
@@ -26,24 +35,31 @@
 ## Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Linguagens de programação</h3>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <h3>Linguagens</h3>
+    <img align="center" alt="Python" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="C" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"/>
+    <img align="center" alt="C#" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
+    <img align="center" alt="HTML5" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
+    <img align="center" alt="CSS3" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+          
+          
   </div>
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Ferramentas</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+    <img align="center" alt="VScode" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Jupyter" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+    <img align="center" alt="Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Github" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   </div>
   
   <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
     <h3>Bibliotecas</h3>
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
+    <img align="center" alt="Streamlit" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg"/>      
+    <img align="center" alt="Pandas" width="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"/>
+    <img align="center" alt="Selenium" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
   </div>
 
 
