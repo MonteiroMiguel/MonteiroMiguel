@@ -8,8 +8,8 @@
 <p>
   Olá, me chamo Miguel! 
   
-  - Cursando Análise e Desenvolvimento de Sistemas. 
   - Desenvolvedor Back-end.
+  - Cursando Análise e Desenvolvimento de Sistemas. 
   - Recentemente me encantei pela área de Dados, a qual tenho dedicado parte dos meus estudos.
   - Atualmente estudando Python e SQL.
   - Tenho me aventurado nos estudos de Matemática Discreta e Blockchain.
@@ -23,7 +23,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Scanner de Portfólio Cripto](https://github.com/MonteiroMiguel/portfolio-scanner)
+- [Python/Cripto - Scanner de Portfólio Multichain](https://github.com/MonteiroMiguel/portfolio-scanner)
 - [Python - Web Scraping de produtos da Amazon](https://github.com/MonteiroMiguel/amazon-scraper)
 - [Python - Gerador/validador de CPFs](https://github.com/MonteiroMiguel/gerador-de-cpfs)
 
@@ -56,10 +56,13 @@
   
   <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
-    <h3>Bibliotecas</h3>
+    <h3>Bibliotecas e Frameworks</h3>
     <img align="center" alt="Streamlit" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg"/>      
     <img align="center" alt="Pandas" width="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"/>
+    <img align="center" alt="Django" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
     <img align="center" alt="Selenium" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+    <img align="center" alt="Boostrap" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+          
   </div>
 
 
